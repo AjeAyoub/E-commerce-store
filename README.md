@@ -1,6 +1,6 @@
 # E-Commerce Marketplace
 
-![Banner Image](images\screenshot-home.png)
+![Banner Image](images/screenshot-home.png)
 
 ## Table of Contents
 - [Project Purpose](#project-purpose)
@@ -29,8 +29,6 @@ Growing up in a small town with limited shopping options, I often found it chall
 I vividly remember spending weekends with my parents, traveling to nearby towns to find specific items. This inconvenience inspired me to help businesses provide better service to their customers through technology. The development of this project has been a personal mission to make shopping more convenient and enjoyable for everyone, especially those in remote areas.
 
 ## Project Architecture
-![Architecture Diagram](path/to/architecture-diagram.png)
-
 The architecture of the project follows the Model-View-Controller (MVC) pattern:
 
 1. **Frontend**: Built with HTML5, CSS3, and JavaScript to ensure responsiveness and accessibility.
