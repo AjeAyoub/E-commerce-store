@@ -1,6 +1,6 @@
 # E-Commerce Marketplace
 
-![Banner Image](images/screenshot-home.png)
+![Banner Image](static/images/screenshot-home.png)
 
 ## Table of Contents
 - [Project Purpose](#project-purpose)
